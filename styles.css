@@ -33,3 +33,31 @@ h3{
     width: 100px;
     height: 100px;
 }
+button{
+    border-radius: 18%;
+    border_radius: 5px;
+}
+
+.g, .t, .m{
+    padding: 40px 20px;
+    border-radius: 18%;
+    width: 150px;
+    height: 100px;
+    vertical-align: top;
+
+}
+.nav-buttons {
+    display: flex;
+    justify-content: center;
+    gap: 5px;
+}
+.text{
+    text-align:center;
+}
+.cb{
+    color: grey;
+
+    border: 2px solid grey;
+
+
+}
